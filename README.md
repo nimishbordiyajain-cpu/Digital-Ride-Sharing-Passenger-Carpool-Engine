@@ -300,6 +300,14 @@ Latest Surge Removed Successfully
 
 ## 10. Screenshots
 
+<img width="505" height="231" alt="image" src="https://github.com/user-attachments/assets/e8e14b56-136a-45a5-a5b7-71d4b4b9902a" />
+
+<img width="459" height="302" alt="image" src="https://github.com/user-attachments/assets/08720d66-0170-4dc5-91d6-2c940b475ca1" />
+
+<img width="480" height="193" alt="image" src="https://github.com/user-attachments/assets/45c37079-7c66-48b8-9b05-25588de9c643" />
+
+
+
 
 ---
 
